@@ -28,7 +28,7 @@ All the code should be in the IPYNB notebook, a suggestion would be to open it i
 
 ![](/content/imgs/dog_right.png)
 
-As you can see it works fine, generally, though with further testing I've noticed that it's not the best, but still can get higher accuracy than just a vanilla network with the same parameters. Do I have the numbers to back that up? No because I was too stupid to add `wandb` to my project and I'm too lazy to do it now. Yes this is "bad science" and no I don't care. I made it within six hours or so, most of which was spent sleeping.
+As you can see it works fine, generally, though with further testing I've noticed that it's not the best, but still can get higher accuracy than just a vanilla network with the same parameters. Do I have the numbers to back that up? No because I was too stupid to add `wandb` to my project and I'm too lazy to do it now. Yes this is "bad science" and no I don't care. I made it within six hours or so, most of which was spent sleeping. It also will see small fluffy show-dogs as cats and very bulky (not fat but muscly) cats as dogs, as should be expected.
 
 -side note
 
