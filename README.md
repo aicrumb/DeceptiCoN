@@ -18,7 +18,7 @@ I like to call this an Anti-GAN because instead of having an adversary to try an
 
 The inspiration for this project came when I was just about to go to sleep and had too much caffeine, I was clearly **not** thinking straight.
 
-All the code should be in the IPYNB notebook, a suggestion would be to open it in Google Colab.
+All the code should be in the IPYNB notebook, a suggestion would be to open it in Google Colab (already made one [here](https://colab.research.google.com/drive/1g0-MdgLXMQC8gr_fQN6du61YBqSZxjsC?usp=sharing).
 
 (add [this file](https://drive.google.com/file/d/1Z7StVmvW8Y65_DOafnTQY2LE_crk_40Z/view?usp=sharing) to your drive, and create a new folder called `test` to put images in to, well, test in the end)
 
