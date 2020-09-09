@@ -8,7 +8,7 @@ by Spruce Reams
 
 A Discriminatory Collaborative Network (DeceptiCoN, yes I know it's a stretch I just wanted it to sound cool, like every other idiot here) is a discriminatory network comprised of two smaller networks collaborating to find an answer.
 
-![](content\imgs\explaination.png)
+![](/content/imgs/explaination.png)
 
 They both work take a picture, and a weight of 0.5 (uncertain) to begin with. They then take the same picture, and the weight of the respected partner's output. Repeat that step, take the average of the new outputs (blend* them), and you get the result.
 
@@ -24,9 +24,9 @@ All the code should be in the IPYNB notebook, a suggestion would be to open it i
 
 ### Results:
 
-![](content\imgs\cat_right.png)
+![](/content/imgs/cat_right.png)
 
-![](content\imgs\dog_right.png)
+![](/content/imgs/dog_right.png)
 
 As you can see it works fine, generally, though with further testing I've noticed that it's not the best, but still can get higher accuracy than just a vanilla network with the same parameters. Do I have the numbers to back that up? No because I was too stupid to add `wandb` to my project and I'm too lazy to do it now. Yes this is "bad science" and no I don't care. I made it within six hours or so, most of which was spent sleeping.
 
